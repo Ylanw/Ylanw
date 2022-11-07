@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%E2%80%9CHello,%20World!%E2%80%9D);Hi%20there%20%F0%9F%91%8B&center=true&size=27">
   </a>
 </h1>
+<!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/Lanlinan/Lanlinan/assets/github-contribution-grid-snake.svg" /></div>
 
 ### This is Xiao Yang!
