@@ -5,7 +5,7 @@
   </a>
 </h1>
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Lanlinan/Lanlinan@output/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Ylanw/Ylanw@output/github-contribution-grid-snake.svg" /></div>
 
 ### This is Xiao Yang!
 
@@ -15,7 +15,7 @@
 [![bilibili](https://img.shields.io/badge/BiliBili-B%E7%AB%99-ff69b4?logo=bilibili&style=flat)](https://space.bilibili.com/452133758)
 [![zhihu](https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue?logo=zhihu&style=flat)](https://www.zhihu.com/people/sui-feng-58-16-57)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yl3572066061@gmail.com)  
-<img src="https://visitor-badge.glitch.me/badge?page_id=Lanlinan" alt="访客统计" /></div>
+<img src="https://visitor-badge.glitch.me/badge?page_id=Ylanw" alt="访客统计" /></div>
 
 &nbsp;&nbsp;Welcome to my Github page! I am Xiao Yang, currently a high school student, self-taught Web, Linux, love computer science and IT Internet career, inspired 
 to become a senior programmer!
@@ -35,7 +35,7 @@ to become a senior programmer!
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Lanlinan&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Ylanw&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
