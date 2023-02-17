@@ -20,7 +20,7 @@
 &nbsp;&nbsp;Welcome to my Github page! I am Xiao Yang, currently a high school student, self-taught Web, Linux, love computer science and IT Internet career, inspired 
 to become a senior programmer!
 
-<img align="right" alt="img" src="https://npm.elemecdn.com/ylan-blog/webp/github.webp" width="50%" height="auto" />
+<img align="right" alt="img" src="https://cdn.jsdelivr.net/npm/ylan-blog@1.0.13/webp/github.webp" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
