@@ -15,7 +15,6 @@
 [![bilibili](https://img.shields.io/badge/BiliBili-B%E7%AB%99-ff69b4?logo=bilibili&style=flat)](https://space.bilibili.com/452133758)
 [![zhihu](https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue?logo=zhihu&style=flat)](https://www.zhihu.com/people/sui-feng-58-16-57)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yl3572066061@gmail.com)  
-[访客统计](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FYlanw%2Fylanwgithubio.json%3Fcolor%3Dpink)  
 
 &nbsp;&nbsp;Welcome to my Github page! I am Xiao Yang, currently a high school student, self-taught Web, Linux, love computer science and IT Internet career, inspired 
 to become a senior programmer!
